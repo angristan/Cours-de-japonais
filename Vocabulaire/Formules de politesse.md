@@ -4,7 +4,7 @@
 
 
 Français | Kanji & Kana | Furigana
---- | --- | ---
+-------- | ------------ | --------
 Oui | はい
 Non | いいえ
 S'il vous plaît | お願いします |おねがいします
