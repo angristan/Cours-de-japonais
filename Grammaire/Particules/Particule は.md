@@ -1,4 +1,4 @@
-# Particule は
+# La particule は
 
 La particule de thématisation (ou de topicalisation) indique le thème de la phrase. Elle est placée après le groupe nominal thématisé, se note は (ha), se prononce わ (wa) et s'écrit wa en Hepburn.
 
