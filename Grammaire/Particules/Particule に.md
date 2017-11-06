@@ -1,0 +1,3 @@
+# La particule に
+
+La fonction de base de la particule に est d'indiquer vers qui ou quoi l'action du verbe qui suit est dirigée. C'est une particule structurale qui a un certain nombre de fonctions mais aucune signification concrète comme nos conjonctions en grammaire française. La particule に peut se traduire par : dans, en, à, vers...
