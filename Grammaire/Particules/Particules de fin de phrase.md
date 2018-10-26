@@ -57,7 +57,7 @@
 
 > Dans le jardin, il y a aussi Taki !
 
-##　さ : accentuation
+## さ : accentuation
 
 * masculin
 * familier
@@ -124,7 +124,7 @@ On peut aussi répondre en reprenant la phrase :
 
 > Non, elle y est.
 
-###　かしら : incertitude
+### かしら : incertitude
 
 * féminin
 
